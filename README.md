@@ -1,3 +1,4 @@
+//Test project for making a custom Unity Native Audio plugin for x64 Windows 
 # README #
 
 This repository hosts the official Unity Native Audio Plugin SDK. It is a standard Unity project that comes with prebuilt plugin effects and custom GUIs for OSX and Windows. Full source code for all plugin effects is provided, both for the native code (Xcode/VisualStudio C++ projects code in the NativeCode folder) as well as the custom GUIs (MonoDevelop project in the GUICode folder).
